@@ -68,4 +68,4 @@ open clinical vocabularies. Recovery on a full SNOMED/LOINC load with real notes
 will be lower and is the honest next step. See `REPORT.md` → "What 96.5% does and
 doesn't mean". No real or PHI-bearing data is included or required.
 
-Apache-2.0.
+MIT.

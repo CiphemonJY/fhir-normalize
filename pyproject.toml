@@ -9,7 +9,7 @@ description = "Recover canonical SNOMED/LOINC codes from messy free-text clinica
 readme = "README.md"
 license = { text = "MIT" }
 requires-python = ">=3.10"
-authors = [{ name = "CiphemonJY" }]
+authors = [{ name = "James Yeung" }]
 keywords = ["fhir", "snomed", "loinc", "clinical-nlp", "terminology", "healthcare", "rag"]
 dependencies = []
 
